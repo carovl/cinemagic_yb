@@ -1,7 +1,8 @@
 <resources>
-    <string name="app_name">cinemagic</string>
-    <string name="title_activity_main2">Main2Activity</string>
+    <string name="app_name">CINEMAGIC</string>
     <string name="action_settings">Settings</string>
     <string name="section_format">Hello World from section: %1$d</string>
     <string name="ver_trailer"><u>Ver Trailer</u></string>
+    <string name="title_activity_main3">Detalles</string>
+
 </resources>
